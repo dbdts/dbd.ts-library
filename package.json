@@ -1,5 +1,5 @@
 {
-    "name": "dbdts-plugins",
+    "name": "dbdts-library",
     "version": "1.0.0",
     "description": "dbd.ts plugins",
     "main": "index.js",

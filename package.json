@@ -1,0 +1,12 @@
+{
+    "name": "dbdts-plugins",
+    "version": "1.0.0",
+    "description": "dbd.ts plugins",
+    "main": "index.js",
+    "scripts": {
+      "test": "node index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT"
+  }

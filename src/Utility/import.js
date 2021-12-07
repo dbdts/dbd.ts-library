@@ -1,5 +1,5 @@
-const leref = require("./src/plugins/leref")
-const dbdts = require("./src/plugins/dbdts")
+const leref = require("./src/plugins/leref.js")
+const dbdts = require("./src/plugins/dbdts.js")
 
 module.exports = {
     leref,
